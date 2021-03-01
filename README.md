@@ -1,5 +1,4 @@
  # **README**
----
 
 ## Link About Code
 * [Codeigniter Framework](https://www.youtube.com/playlist?list=PLWCEDsNutP7Lqa9k6hyvCpQXVxhBi1u7i&fbclid=IwAR3uFzvnZP5RzU3DRDPAxCq2L_Q3HlNwGuqqrd_mpkQB1lCkpfjOdOWoO6I)
@@ -9,11 +8,9 @@
 * [.htaccess 1](https://www.themevilles.com/what-is-htaccess/)
 * [.htaccess 2](https://www.webhostingsecretrevealed.net/th/blog/web-hosting-guides/the-basics-of-htaccess/)
 * [regex 1](https://devahoy.com/blog/2016/11/regular-expressions-101/)
----
 
 ## Link About ...
 * []()
----
 
 ## Note
 ```
