@@ -1,4 +1,7 @@
- # **README**
+ # Note
+```
+เอาไว้เก็บ Link ต่าง ๆ ที่มีประโยชน์
+```
 
 ## Link About Code
 * [Codeigniter Framework](https://www.youtube.com/playlist?list=PLWCEDsNutP7Lqa9k6hyvCpQXVxhBi1u7i&fbclid=IwAR3uFzvnZP5RzU3DRDPAxCq2L_Q3HlNwGuqqrd_mpkQB1lCkpfjOdOWoO6I)
@@ -16,8 +19,3 @@
 
 ## Link About ...
 * []()
-
-## Note
-```
-
-```
