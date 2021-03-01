@@ -17,5 +17,5 @@
 * [Laravel Framework & Vue.js Frontend](https://www.youtube.com/playlist?list=PLEE74DyIkwElrZBxAW1x0AEHPrUQqwSaq)
 * []()
 
-## Link About ...
-* []()
+## Link About Deploy Web
+* [Calculate Badminton](https://calculate-badminton.herokuapp.com/index)
