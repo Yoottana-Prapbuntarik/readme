@@ -19,6 +19,5 @@
 * [Deploy a Static Site To Heroku](https://blog.teamtreehouse.com/deploy-static-site-heroku)
 * 
 
-## Link About Deploy Web
-* [Calculate Badminton](https://calculate-badminton.herokuapp.com/index)
+## Link About .....
 * []()
