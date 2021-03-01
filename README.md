@@ -8,6 +8,11 @@
 * [.htaccess 1](https://www.themevilles.com/what-is-htaccess/)
 * [.htaccess 2](https://www.webhostingsecretrevealed.net/th/blog/web-hosting-guides/the-basics-of-htaccess/)
 * [regex 1](https://devahoy.com/blog/2016/11/regular-expressions-101/)
+* [Coding Thailand](https://codingthailand.com/site/index.php?r=site/allcourses)
+* [Vue.js Basic to Advance](https://www.youtube.com/playlist?list=PLEE74DyIkwEnQ3fqgLNRnBHdGONErIKzL)
+* [Laravel Framework Basic to Advance](https://www.youtube.com/playlist?list=PLEE74DyIkwEnDRHQjHaJyV4K1TsMPkbiV)
+* [Laravel Framework & Vue.js Frontend](https://www.youtube.com/playlist?list=PLEE74DyIkwElrZBxAW1x0AEHPrUQqwSaq)
+* []()
 
 ## Link About ...
 
