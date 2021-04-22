@@ -20,5 +20,4 @@
 
 
 
-<p align="center">
-  <img width="240" height="100" src="https://images.unsplash.com/photo-1507525428034-b723cf961d3e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1000&q=80"</p>
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
